@@ -2,13 +2,12 @@
   "id": "./",
   "name": "Daymark Personal Finance",
   "short_name": "Daymark",
-  "description": "Daily spending, budgets, alerts and weekly money reports.",
+  "description": "Daily expenses, budget alerts, screenshot import and net worth tracking.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "any",
-  "background_color": "#f5f6f3",
-  "theme_color": "#f5f6f3",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
   "icons": [
     { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
